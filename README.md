@@ -24,4 +24,4 @@ nome_da_virtualenv\Scripts\Activate
 (env)$ flask run --host 0.0.0.0 --port 5000
 ```
 
-5 - Abrir o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
+5 - Executar [http://localhost:5000/#/](http://localhost:5000/#/) no browser.
